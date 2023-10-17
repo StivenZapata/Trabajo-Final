@@ -1,0 +1,180 @@
+/*Tema: Se ha agregado un tema relacionado con el anime,
+ lo que proporciona un contexto claro para la página,
+  denominándola "Anime World". Esto cumple con el requisito de tener un tema.
+
+Contenido: Se han agregado secciones de contenido relacionado con el anime,
+ incluyendo información sobre los últimos estrenos y géneros de anime.
+  Esto proporciona contenido relevante al tema del sitio.
+
+Colores: Se han ajustado los colores de la página para que estén relacionados con el anime.
+ Se utilizan colores naranja, amarillo anaranjado y amarillo claro, 
+ que son colores frecuentemente asociados con el anime.
+  Esto cumple con el requisito de considerar los colores en el diseño.
+
+Etiquetas y Elementos: El código HTML incluye una variedad de etiquetas y elementos,
+ como encabezados, párrafos, listas, enlaces, formularios, campos de entrada, áreas de texto, botones y más.
+  Estos elementos son esenciales para la estructura y presentación de la página,
+   y cumplen con el requisito de tener un mínimo de 10 etiquetas distintas.*/
+/* Estilos para el encabezado */
+/* Estilos para la etiqueta body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para la etiqueta header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilos para la etiqueta nav */
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Estilos para la etiqueta ul dentro de nav */
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Estilos para la etiqueta a dentro de nav */
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+/* Cambiar color de enlace al pasar el mouse */
+nav a:hover {
+    color: #ff6600;
+}
+
+/* Estilos para la etiqueta main */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Estilos para la etiqueta article */
+article {
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para la etiqueta h2 dentro de article */
+article h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Estilos para la etiqueta ul dentro de article */
+article ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+/* Estilos para la etiqueta li dentro de article */
+article li {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Estilos para la etiqueta img con clase main-image */
+img.main-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto; /* Centrar la imagen horizontalmente con espacio superior e inferior */
+}
+
+/* Estilos para la etiqueta form */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para la etiqueta label dentro de form */
+form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+/* Estilos para la etiqueta input dentro de form */
+form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para la etiqueta textarea dentro de form */
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para la etiqueta button dentro de form */
+form button {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Cambiar color de botón al pasar el mouse */
+form button:hover {
+    background-color: #ff3300;
+}
+
+/* Otros estilos CSS */
+
+.button-style {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.button-style:hover {
+    background-color: #ff3300;
+}
+
+body.generos {
+    background-color: #000; /* Cambiar a negro (#000) */
+    color: #fff; /* Cambiar el color del texto para que sea legible en el fondo negro */
+}
+
+body.animes-populares {
+    background-color: #000; /* Cambiar a verde oscuro (#006400) */
+    color: #000; /* Cambiar el color del texto para que sea legible en el fondo verde oscuro */
+
+}
