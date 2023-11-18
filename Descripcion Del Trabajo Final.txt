@@ -1,0 +1,40 @@
+Anime World - Tu Destino para Explorar el Mundo del Anime
+
+Anime World es una página web dedicada a los amantes del anime, proporcionando una experiencia inmersiva y emocionante. Diseñada con un tema claro relacionado con el anime, la página ofrece información sobre los últimos estrenos y diversos géneros de anime. Los colores vibrantes, como el naranja y el amarillo, crean un ambiente animado y acogedor.
+
+Características Principales:
+
+Diseño Temático: El tema "Anime World" se refleja tanto en el diseño visual como en el contenido, cumpliendo con el requisito de tener un tema claro.
+
+Contenido Relevante: Secciones informativas sobre los últimos estrenos y géneros de anime proporcionan contenido relevante y atractivo.
+
+Estructura HTML y CSS: El código HTML utiliza una variedad de etiquetas y elementos esenciales para la estructura y presentación de la página. El archivo CSS ajusta los colores y estilos para estar en línea con el tema del anime.
+
+Navegación Intuitiva: La barra de navegación facilita la exploración con enlaces a la página principal, animes populares, géneros y contacto.
+
+Flexibilidad con Flexbox: Se utiliza Flexbox para distribuir el espacio de manera eficiente, asegurando un diseño flexible y agradable.
+
+Interactividad con JavaScript: La página hace uso de JavaScript para agregar dinámicamente el encabezado, el contenido principal y el pie de página.
+
+Formulario de Contacto: Se ha implementado un formulario de contacto que permite a los usuarios enviar preguntas o comentarios.
+
+Requisitos Cumplidos:
+
+La página es funcional al menos en un 70% de lo propuesto en la propuesta inicial.
+El código fuente está en un repositorio de GitHub, evidenciando contribuciones individuales.
+Se incluye un archivo CSS aplicado a un módulo.
+Funciones utilizadas son del tipo flecha.
+Uso de Flexbox para distribuir el espacio.
+La solución cuenta con mínimo tres módulos.
+Sustentación:
+La implementación se realizó individualmente, evidenciando las contribuciones en GitHub y asegurando un diseño atractivo y funcional.
+
+Requisitos Opcionales:
+
+APIs: No se utilizaron APIs para obtener datos en esta versión.
+Librerías Específicas: No se utilizaron librerías como Material UI o Styled Components.
+Hooks: No se utilizaron hooks de React en esta implementación.
+CodeSandbox: La implementación se realizó localmente, no en CodeSandbox.
+Número de Módulos: La solución cuenta con tres módulos principales.
+React Router: Trate de implementar el React pero el tiempo y otros trabajos pendiente no pude avanzar en eso
+Temas Avanzados de React: No se exploraron temas avanzados de React.
